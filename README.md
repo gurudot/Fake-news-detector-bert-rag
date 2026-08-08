@@ -3,9 +3,6 @@ Developed by: Dhanvith Shetty | Internship: Festiva Moments | College: VCET
 
 ## 🖥️ Application Demo
 
-![App Demo](assets/App%20demo.png)
-
-![App Demo 1](assets/App%20demo1.png)
 
 
 📌 Problem Statement
