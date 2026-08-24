@@ -1,6 +1,5 @@
 🛡️ Hybrid AI Fake News Detector (BERT + RAG)
-Developed by: Dhanvith Shetty | Internship: Festiva Moments | College: VCET
-
+Developed by: Gurudatta Pradhan | Internship:AI GPU SUMMER INTERNSHIP by NVIDIA  | College: Presidency University
 ## 🖥️ Application Demo
 
 
